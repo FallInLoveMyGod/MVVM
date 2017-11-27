@@ -1,0 +1,5 @@
+
+platform:ios,'7.0'
+target 'MVVM' do
+pod 'AFNetworking'
+end
